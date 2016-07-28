@@ -1,6 +1,7 @@
 # Twitter-API
 FactionlessTRENDs
 
+
 Twitter-Python Bot
 The project was built using python as a programming language and employed API to tap into twitter’s content and bring the Top 10 Trending tweets from the Philippines into Slack, using GIT as an aid for the collaboration of the team members.
 
@@ -89,8 +90,20 @@ g.	Then click Create my access token.
 h.	Choose in the Request Settings, Request type: GET
 i.	Get from the OAuth Tool tab the following: Consumer Key, Consumer Secret, Access Token and Access Token Secret.
 
+Possible Python Bugs
+Since the developed project used Python 2.x (particularly 2.7), if you have a Python version 3.x, there might be errors that may arise:
+	Print syntax – use of ( ) in Python 3.x
+	Use of urllib2 package – no urllib2 in Python 3.x
+
+Contributors
+	jdcaburnay (git)		-	@johnca (slack)
+	ikels24 (git)			-	@michaelgo (slack)
+	julieannegalinato (git)	-	@julieannemg (slack)
+	genesisyeshua (git)		-	@genesisl (slack)
+	dmanalili9123 (git)		-	@danielma (slack)
 
 
+ 
 
  
 
