@@ -1,32 +1,35 @@
-# Twitter-API
-FactionlessTRENDs
+#**Twitter-API** :+1:
 
+##FactionlessTRENDs
 
-Twitter-Python Bot
+##Twitter-Python Bot
+
 The project was built using python as a programming language and employed API to tap into twitter’s content and bring the Top 10 Trending tweets from the Philippines into Slack, using GIT as an aid for the collaboration of the team members.
 
-Table of Contents
-	Project Chat
-	About dev/master branch
-	Features
-	Requirements
-	API Reference
-	Libraries
-	Development
-	Contributors
+###Table of Contents
+* Project Chat
+* About dev/master branch
+* Features
+* Requirements
+* API Reference
+* Libraries
+* Development
+* Contributors
 
-Project Chat:
-In Slack group, IS GHP 3, a channel called #python_practice1 is used. Most of the team’s collaborative conversations were made through zoom and physical interaction. 
+####Project Chat:
 
-About dev/master branch:
+In Slack group, IS GHP 3, a channel called [#python_practice1](https://isghp3.slack.com/messages/python_practice1/search/in:%23python_practice1/) is used. Most of the team’s collaborative conversations were made through zoom and physical interaction. 
+
+####About dev/master branch:
+
 Dev branch has the most up-to-date features, but be aware that there might be some broken changes. Master branch is the stable branch.
 
-Features
-	Displays/Outputs the Top 10 Trending Tweets in the Philippines
-	Python code
-	Twitter and Slack Bot API integration
+####Features
+*	Displays/Outputs the Top 10 Trending Tweets in the Philippines
+*	Python code
+*	Twitter and Slack Bot API integration
 
-Requirements: (Install Guide)
+####Requirements: (Install Guide)
 1.	Python 2.7x (with Setup Environment Variable fix)
 Download the latest version of Python from the official website:
 https://www.python.org/download/releases/2.7/ 
