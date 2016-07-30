@@ -47,11 +47,11 @@ In the Control Panel, go to Edit Environment Variables for your account. Include
 * PATH=%PYTHONPATH%;
 * PYTHONPATH=C:\Python27;
 
-######2.	Tweepy: Twitter API
+#####2.	Tweepy: Twitter API
 
 Read the Tweepy Documentation: http://www.tweepy.org/
 Git clone or download the Tweety API at: https://github.com/tweepy/tweepy
-#######For Windows:
+######For Windows:
 Run the Windows command line. Then change directory to the Tweepy-master file location
 Enter the command: setup.py install tweepy
 Note: It is a pre-requisite that you have installed Python 2.7 already in your machine.
