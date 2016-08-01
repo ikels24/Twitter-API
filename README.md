@@ -1,3 +1,5 @@
+![Twitter-API Logo]({{site.baseurl}}/http://imgur.com/dX0tHKV)
+
 #**Twitter-API** :+1:
 
 ##FactionlessTRENDs
@@ -104,13 +106,7 @@ Since the developed project used Python 2.x (particularly 2.7), if you have a Py
 
 Contributors
 *	jdcaburnay (git)		-	@johnca (slack)
-* ikels24 (git)			-	@michaelgo (slack)
+* ikels24 (git)				-	@michaelgo (slack)
 *	julieannegalinato (git)	-	@julieannemg (slack)
 *	genesisyeshua (git)		-	@genesisl (slack)
 *	dmanalili9123 (git)		-	@danielma (slack)
-
-
- 
-
- 
-
