@@ -1,4 +1,4 @@
-![Twitter-API Logo]({{site.baseurl}}/http://imgur.com/dX0tHKV)
+<a href="http://www.4shared.com/photo/MAjrltqjba/13867007_10210157174673800_136.html" target=_blank><img src="http://www.4shared.com/img/MAjrltqjba/s25/1564548cc30/13867007_10210157174673800_136" border="0"></a>
 
 #**Twitter-API** :+1:
 
